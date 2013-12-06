@@ -1,4 +1,4 @@
-# My Talk Title
+# Building DEF CON CTF with Ruby
 
 DEF CON Capture the Flag is the world series of computer hacking, with hundreds
 of teams from all over the world trying to qualify, and a select few competing
